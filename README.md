@@ -12,7 +12,7 @@
 ⚡ Fun fact: I love to learn new programming languages and enjoy building projects in different fields.
 
 ## 🌐 Socials:
-[Instagram](https://www.instagram.com/dvir_hp/) [LinkedIn](https://www.linkedin.com/in/dvir-haham-pour-164943234/)[Facebook](https://www.facebook.com/dvir.hahampour)
+[Instagram](https://www.instagram.com/dvir_hp/) [LinkedIn](https://www.linkedin.com/in/dvir-haham-pour-164943234/) [Facebook](https://www.facebook.com/dvir.hahampour)
 
 ## 💻 Tech Stack:
 `Java` `C` `C#` `Python` `SQL` `Ubuntu` `Linux` `Windows` `JavaFX` `OOP` `Git` `GitHub` `DrRacket` `Racket` `Scheme`
