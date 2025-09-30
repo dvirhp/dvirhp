@@ -1,19 +1,19 @@
-# 💫 About Me:
-🔭 I’m a 4th-year Computer Science student at the Open University of Israel.
+## 💫 About Me
 
-👯 I’m passionate about software development and enjoy working with various programming languages.
+- 🔭 Full-stack developer with experience in **Java, C, C#, Python, Node.js, and React**.  
+- 👯 Passionate about backend and full-stack development, building reliable and maintainable software.  
+- 🤝 Skilled in **OOP, databases, Git/GitHub**, and experienced across **Linux and Windows** environments.  
+- 🌱 Built a **family management app** with authentication and real-time features (Node.js, React, MongoDB).  
+- 💬 Always open to feedback, eager to learn, and motivated to grow in fast-paced engineering teams.  
 
-🤝 I’m open to feedback on my C development projects, focusing on improving code quality, performance, and maintainability.
+---
 
-🌱 I know Java, C, and Python, and I’m familiar with both Ubuntu and Windows environments. I also have experience with JavaFX, OOP, and other related concepts.
+## 🌐 Socials
+- [LinkedIn](https://www.linkedin.com/in/dvirhp/)  
+- [GitHub](https://github.com/dvirhp)  
 
-💬 Ask me about Java, C, Python, OOP, development environments, and anything related to software development.
+---
 
-⚡ Fun fact: I love to learn new programming languages and enjoy building projects in different fields.
-
-## 🌐 Socials:
-[Instagram](https://www.instagram.com/dvir_hp/) [LinkedIn](https://www.linkedin.com/in/dvir-haham-pour-164943234/) [Facebook](https://www.facebook.com/dvir.hahampour)
-
-## 💻 Tech Stack:
-`Java` `C` `C#` `Python` `SQL` `Ubuntu` `Linux` `Windows` `JavaFX` `OOP` `Git` `GitHub` `DrRacket` `Racket` `Scheme`
-
+## 💻 Tech Stack
+`Java` `C` `C#` `Python` `Node.js` `React` `MongoDB` `SQL`  
+`Linux` `Windows` `Git` `GitHub` `JavaFX` `OOP`
